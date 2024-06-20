@@ -5,7 +5,7 @@ pub mod error;
 pub mod states;
 use crate::{constant::*, error::*, states::*};
 
-declare_id!("FHi9b593PHHVjcrvRBXjAmRd6JsHkWCoLmC8CHdkDUy3");
+declare_id!("B2eiBLaqrx8PFR3MoSWf898MvT3robTDXcYPMZCtJK1f");
 
 #[program]
 pub mod clever_todo {
